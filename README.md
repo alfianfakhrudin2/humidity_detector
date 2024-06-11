@@ -1,0 +1,1 @@
+Proyek ini bertujuan untuk membuat perangkat IoT yang dapat memantau kondisi kenyamanan dan kesehatan ruangan. Perangkat ini menggunakan sensor DHT22 untuk mengukur suhu dan kelembaban, serta menampilkan data pada LCD 16x2. Data kemudian dikirimkan ke server Blynk melalui Wi-Fi.
